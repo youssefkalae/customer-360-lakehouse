@@ -1,0 +1,501 @@
+customer_id,signup_date,region,segment,email,company_name,total_revenue,num_invoices,last_invoice_date,total_events,last_event_timestamp,email_opens,email_click_points,marketing_score,churn_risk
+271,2024-12-19,APAC,free,juarezphillip@example.com,Chambers-Long,,,,10,2025-07-20T02:16:15.000Z,3,6,9,low
+372,2025-02-11,APAC,pro,smithkristi@example.com,Rogers Inc,240.0,4,2025-05-12,157,2025-11-30T13:16:15.000Z,6,8,14,high
+212,2025-02-22,APAC,free,christinajohnson@example.org,"White, Smith and Pope",10.0,1,2025-02-23,11,2025-06-22T13:16:15.000Z,6,4,10,high
+234,2025-04-09,APAC,pro,stevenpetersen@example.com,Munoz and Sons,420.0,7,2025-10-08,129,2025-11-25T09:16:15.000Z,5,6,11,low
+362,2024-08-27,EU,enterprise,cody02@example.org,Fischer-Garcia,1200.0,6,2025-01-23,165,2025-11-29T08:16:15.000Z,3,8,11,high
+331,2025-06-27,LATAM,free,kimberly21@example.net,Faulkner-Jenkins,20.0,1,2025-06-30,21,2025-10-31T19:16:15.000Z,5,4,9,high
+459,2024-08-29,EU,enterprise,johnsondylan@example.com,"Garrison, Harrison and Brown",1800.0,9,2025-04-25,293,2025-11-29T10:16:15.000Z,5,4,9,high
+290,2025-06-15,APAC,free,alexanderfrancisco@example.net,Wood-Marshall,,,,26,2025-11-26T22:16:15.000Z,3,12,15,low
+332,2024-07-19,LATAM,pro,erinsmith@example.org,Jackson-Richards,360.0,6,2024-12-16,161,2025-11-25T00:16:15.000Z,5,2,7,high
+435,2025-03-19,EU,pro,baxterpatricia@example.com,"Collins, Brock and Cowan",360.0,6,2025-09-17,151,2025-11-21T21:16:15.000Z,2,4,6,low
+240,2025-02-10,LATAM,free,zsimmons@example.net,Carroll Ltd,,,,26,2025-11-24T20:16:15.000Z,3,4,7,low
+117,2024-12-31,APAC,free,michaelfarrell@example.com,"Marsh, Lee and Rivera",,,,22,2025-11-07T21:16:15.000Z,1,2,3,low
+184,2025-05-13,NA,basic,mwhitehead@example.org,"Brown, Alvarez and Daniels",60.0,3,2025-07-12,41,2025-12-02T15:16:15.000Z,2,4,6,high
+382,2025-08-31,EU,enterprise,richard27@example.net,Hoffman-Marshall,800.0,4,2025-11-27,261,2025-11-29T04:16:15.000Z,1,2,3,low
+203,2024-08-31,NA,free,ericperry@example.net,"Hunter, Reynolds and Jones",,,,19,2025-12-02T13:16:15.000Z,3,4,7,low
+62,2025-10-08,NA,free,catherinehernandez@example.net,"Phillips, Austin and Miles",,,,17,2025-11-21T14:16:15.000Z,0,2,2,low
+477,2024-12-06,EU,enterprise,sarahcarpenter@example.net,"Daniel, Tucker and Arnold",2000.0,10,2025-09-04,307,2025-11-30T19:16:15.000Z,0,2,2,low
+263,2025-01-18,NA,enterprise,colejoy@example.org,Kelly LLC,800.0,4,2025-04-15,311,2025-12-01T19:16:15.000Z,5,6,11,high
+305,2025-02-03,APAC,free,handerson@example.net,Anderson PLC,,,,19,2025-12-01T19:16:15.000Z,3,4,7,low
+247,2024-08-08,LATAM,pro,grayrenee@example.net,Durham Group,180.0,3,2024-10-06,156,2025-11-26T15:16:15.000Z,2,4,6,high
+8,2025-06-22,LATAM,pro,agutierrez@example.net,Roberts and Sons,360.0,6,2025-11-17,155,2025-11-28T21:16:15.000Z,5,8,13,low
+498,2024-09-24,NA,enterprise,connerkayla@example.com,Taylor and Sons,2200.0,11,2025-09-17,162,2025-12-02T08:16:15.000Z,7,14,21,low
+434,2025-08-28,LATAM,pro,nward@example.net,Santiago PLC,240.0,4,2025-11-24,144,2025-11-29T21:16:15.000Z,4,8,12,low
+38,2024-08-25,NA,pro,dale49@example.com,"Jackson, Finley and Morgan",660.0,11,2025-07-19,104,2025-11-24T17:16:15.000Z,1,4,5,high
+39,2024-07-08,EU,free,nathanmiller@example.net,"Miller, Hernandez and Santiago",,,,12,2025-10-11T06:16:15.000Z,6,4,10,low
+49,2025-05-11,APAC,enterprise,allennathan@example.net,Garcia LLC,1200.0,6,2025-11-05,327,2025-12-02T00:16:15.000Z,1,4,5,low
+159,2025-09-30,EU,enterprise,gbarnes@example.com,"Johnson, Young and Hogan",400.0,2,2025-12-02,277,2025-12-02T13:16:15.000Z,5,0,5,low
+170,2025-10-12,APAC,enterprise,jeremy36@example.com,Velazquez Ltd,400.0,2,2025-11-11,320,2025-12-01T03:16:15.000Z,5,4,9,low
+314,2025-05-11,EU,pro,kgarrett@example.org,Warner Group,420.0,7,2025-11-09,160,2025-12-01T17:16:15.000Z,5,6,11,low
+476,2025-02-07,LATAM,free,gilmorearthur@example.net,Davis-Zavala,,,,19,2025-11-25T23:16:15.000Z,7,6,13,low
+192,2024-08-13,LATAM,pro,lshepherd@example.com,Valenzuela Ltd,180.0,3,2024-11-14,159,2025-11-29T21:16:15.000Z,9,8,17,high
+325,2025-09-29,LATAM,pro,smithjason@example.com,Blevins-Payne,180.0,3,2025-11-30,135,2025-12-01T04:16:15.000Z,6,6,12,low
+475,2025-11-16,EU,basic,xthompson@example.com,Lynch LLC,20.0,1,2025-11-16,76,2025-11-28T02:16:15.000Z,2,16,18,low
+193,2025-01-06,EU,free,benitezkatherine@example.net,Gould-Blankenship,,,,10,2025-08-31T07:16:15.000Z,0,4,4,low
+436,2025-09-10,EU,pro,adavis@example.net,"Villarreal, Thornton and Ochoa",180.0,3,2025-11-06,91,2025-12-01T21:16:15.000Z,8,4,12,low
+26,2025-04-30,APAC,basic,jodydiaz@example.org,"Edwards, Terry and Ewing",80.0,4,2025-07-31,54,2025-11-29T17:16:15.000Z,3,2,5,high
+96,2025-05-01,APAC,basic,bennettrachael@example.net,"Mitchell, Gonzales and Black",80.0,4,2025-08-31,81,2025-11-17T12:16:15.000Z,4,0,4,high
+33,2025-06-22,LATAM,free,rodriguezjesus@example.net,Mckay-Zavala,,,,18,2025-11-11T17:16:15.000Z,6,0,6,low
+366,2024-11-14,EU,enterprise,dhenry@example.com,Thompson Inc,1200.0,6,2025-06-12,151,2025-12-01T04:16:15.000Z,4,8,12,high
+40,2025-01-31,EU,basic,jenkinsstacey@example.org,Allen-Wilson,160.0,8,2025-11-26,78,2025-11-26T06:16:15.000Z,14,10,24,low
+141,2025-09-19,LATAM,enterprise,stokesclaire@example.com,Fischer Ltd,600.0,3,2025-11-16,298,2025-12-02T16:16:15.000Z,8,12,20,low
+288,2025-04-14,NA,enterprise,benjaminerickson@example.net,Sanchez LLC,800.0,4,2025-08-10,410,2025-12-02T02:16:15.000Z,4,12,16,high
+321,2025-07-29,LATAM,pro,markorozco@example.net,"Johnson, Williams and Moses",300.0,5,2025-11-29,87,2025-12-02T06:16:15.000Z,2,2,4,low
+11,2024-11-08,NA,pro,shawn98@example.org,Reid PLC,480.0,8,2025-07-06,111,2025-11-24T22:16:15.000Z,4,10,14,high
+287,2025-09-23,EU,pro,lphillips@example.org,Ward Ltd,180.0,3,2025-11-24,129,2025-12-01T22:16:15.000Z,2,4,6,low
+125,2024-09-12,NA,basic,chantimothy@example.com,Cabrera and Sons,240.0,12,2025-08-09,76,2025-12-02T00:16:15.000Z,3,10,13,high
+187,2024-11-18,NA,pro,brandon64@example.com,"Ali, Copeland and Chang",240.0,4,2025-04-17,110,2025-12-02T01:16:15.000Z,4,10,14,high
+94,2025-03-07,NA,free,gonzalezwanda@example.org,"Porter, Daniels and Bennett",,,,19,2025-11-22T21:16:15.000Z,8,12,20,low
+71,2025-04-28,LATAM,free,martinandrea@example.net,"Moore, Herrera and Parsons",0.0,1,2025-04-27,22,2025-12-01T10:16:15.000Z,7,6,13,high
+35,2025-03-20,NA,free,terrychristine@example.net,"Clark, Mitchell and Moore",,,,24,2025-10-29T06:16:15.000Z,10,4,14,low
+214,2024-11-28,EU,pro,meyerjacob@example.org,Joseph-Bird,600.0,10,2025-10-25,107,2025-12-02T00:16:15.000Z,4,4,8,low
+46,2025-09-23,EU,basic,tschmidt@example.net,"Hale, Gomez and Acevedo",60.0,3,2025-11-25,47,2025-11-29T03:16:15.000Z,4,16,20,low
+20,2025-05-02,APAC,free,ssimpson@example.net,Dudley Ltd,,,,28,2025-11-08T22:16:15.000Z,7,12,19,low
+255,2025-01-05,NA,enterprise,richardreyes@example.org,"Fuentes, Weaver and Brown",1000.0,5,2025-05-05,213,2025-12-01T15:16:15.000Z,7,4,11,high
+185,2025-08-20,APAC,free,courtneycollins@example.net,Moore and Sons,10.0,2,2025-09-16,10,2025-11-21T08:16:15.000Z,3,10,13,low
+467,2025-02-12,LATAM,basic,danamolina@example.net,"Hunter, Gonzalez and Porter",160.0,8,2025-11-07,48,2025-11-30T22:16:15.000Z,1,4,5,low
+428,2024-12-16,NA,basic,susan31@example.com,Vaughan and Sons,220.0,11,2025-11-10,72,2025-11-29T11:16:15.000Z,3,0,3,low
+361,2025-08-07,EU,enterprise,katherine37@example.org,"Garcia, Fisher and Daniels",800.0,4,2025-11-03,302,2025-11-27T18:16:15.000Z,1,4,5,low
+111,2024-10-07,EU,pro,joanneyoung@example.com,Green Group,360.0,6,2025-03-09,84,2025-11-28T23:16:15.000Z,3,2,5,high
+87,2025-09-19,NA,enterprise,jeffreykennedy@example.net,Alvarez-Freeman,600.0,3,2025-11-18,409,2025-12-02T08:16:15.000Z,8,4,12,low
+2,2025-03-27,EU,basic,debrajackson@example.org,"Sanchez, Miller and Rodriguez",160.0,8,2025-11-21,51,2025-11-26T22:16:15.000Z,3,8,11,low
+12,2024-12-15,APAC,free,swashington@example.org,Ward-Gardner,20.0,2,2025-01-11,18,2025-10-24T19:16:15.000Z,2,2,4,high
+210,2025-01-13,NA,basic,gutierrezdonald@example.net,"Harper, Lynch and Spencer",160.0,8,2025-09-13,31,2025-11-14T16:16:15.000Z,5,6,11,low
+43,2025-08-10,APAC,pro,joseph49@example.com,"Garcia, Palmer and Taylor",240.0,4,2025-11-07,107,2025-12-02T14:16:15.000Z,5,4,9,low
+369,2024-11-16,EU,free,susanberry@example.com,Flowers Ltd,,,,30,2025-11-22T08:16:15.000Z,7,8,15,low
+297,2025-04-09,LATAM,pro,solisdawn@example.com,White-Nelson,180.0,3,2025-06-11,74,2025-12-01T13:16:15.000Z,5,4,9,high
+492,2025-02-13,APAC,free,sjones@example.com,Dyer LLC,,,,23,2025-11-05T19:16:15.000Z,7,2,9,low
+31,2025-07-14,LATAM,free,montoyaaaron@example.net,"Mccormick, Reese and Nelson",20.0,1,2025-07-11,26,2025-11-24T22:16:15.000Z,7,6,13,high
+1,2025-08-10,NA,pro,ysmith@example.net,"Walker, Turner and Patrick",180.0,3,2025-11-09,171,2025-12-02T14:16:15.000Z,3,6,9,low
+342,2025-04-08,APAC,basic,donald96@example.org,"Martin, Miller and Vasquez",120.0,6,2025-11-01,78,2025-11-22T02:16:15.000Z,3,2,5,low
+456,2025-10-10,LATAM,pro,laurie88@example.org,"Stewart, Harris and Walker",120.0,2,2025-11-10,79,2025-11-28T13:16:15.000Z,5,8,13,low
+41,2024-11-15,EU,free,carlos04@example.org,Washington-Ruiz,,,,28,2025-10-23T12:16:15.000Z,3,0,3,low
+208,2025-02-28,APAC,pro,ashley29@example.net,Floyd and Sons,360.0,6,2025-10-23,61,2025-11-07T05:16:15.000Z,1,6,7,low
+339,2025-11-11,NA,pro,goodmanpeter@example.net,"Rogers, Wallace and Moody",60.0,1,2025-11-14,124,2025-11-29T20:16:15.000Z,2,0,2,low
+135,2024-09-06,EU,enterprise,robert46@example.com,"Marsh, Knapp and Farrell",400.0,2,2024-11-05,296,2025-11-30T19:16:15.000Z,3,2,5,high
+250,2024-10-10,APAC,pro,cherryholly@example.org,"Gonzalez, Mercer and Carroll",480.0,8,2025-07-10,158,2025-11-26T10:16:15.000Z,4,10,14,high
+454,2024-07-06,LATAM,basic,lisanichols@example.com,Ortega Group,60.0,3,2024-09-01,32,2025-11-18T12:16:15.000Z,6,6,12,high
+330,2024-08-25,APAC,enterprise,rzavala@example.org,Phelps PLC,600.0,3,2024-11-25,192,2025-11-24T19:16:15.000Z,2,4,6,high
+44,2025-04-01,NA,basic,marisa31@example.com,Dickerson Inc,40.0,2,2025-05-29,52,2025-11-07T20:16:15.000Z,6,4,10,high
+306,2024-10-23,APAC,free,julia46@example.net,Walton-Brooks,,,,17,2025-11-28T06:16:15.000Z,5,4,9,low
+446,2025-07-21,LATAM,basic,hstevens@example.com,Mills and Sons,100.0,5,2025-11-18,60,2025-11-29T12:16:15.000Z,4,8,12,low
+256,2024-06-24,NA,enterprise,wongrobert@example.net,"Christensen, Little and Davis",600.0,3,2024-08-21,244,2025-11-29T13:16:15.000Z,6,12,18,high
+489,2025-05-12,NA,pro,marshallsteven@example.org,Thompson and Sons,360.0,6,2025-11-05,164,2025-11-28T18:16:15.000Z,5,10,15,low
+303,2024-11-04,LATAM,free,fperry@example.com,Hanson Group,,,,24,2025-11-27T01:16:15.000Z,1,4,5,low
+139,2025-05-13,EU,free,aalexander@example.org,Carpenter Ltd,,,,20,2025-08-28T23:16:15.000Z,6,14,20,low
+173,2025-02-21,LATAM,pro,yjenkins@example.net,"Ryan, Smith and Williams",540.0,9,2025-11-21,73,2025-11-24T05:16:15.000Z,2,4,6,low
+166,2024-10-14,EU,enterprise,robert85@example.com,Dawson-Hernandez,800.0,4,2025-01-15,292,2025-11-29T03:16:15.000Z,12,4,16,high
+358,2025-09-26,EU,pro,moodydebra@example.org,Taylor LLC,180.0,3,2025-11-22,124,2025-11-30T15:16:15.000Z,3,0,3,low
+224,2025-01-25,NA,basic,katie03@example.org,"Baker, Short and West",160.0,8,2025-09-21,43,2025-11-22T17:16:15.000Z,6,8,14,low
+395,2025-04-30,EU,pro,hirwin@example.com,"Rose, Cordova and Thomas",480.0,8,2025-11-26,142,2025-11-28T16:16:15.000Z,6,6,12,low
+466,2025-07-06,EU,free,lwalsh@example.net,"Sanford, Brooks and Johnson",20.0,1,2025-07-06,30,2025-11-06T01:16:15.000Z,9,12,21,high
+298,2024-08-19,APAC,free,walkercourtney@example.org,Harris Group,20.0,2,2024-09-18,22,2025-09-27T04:16:15.000Z,4,6,10,high
+207,2024-12-29,APAC,enterprise,ericsmith@example.com,"Green, Nelson and Brown",2000.0,10,2025-11-25,262,2025-12-01T10:16:15.000Z,2,8,10,low
+278,2024-08-05,LATAM,enterprise,joseph07@example.net,"Miles, Mcclure and Morales",800.0,4,2024-11-06,333,2025-11-28T22:16:15.000Z,10,8,18,high
+265,2024-08-17,NA,basic,michellehampton@example.net,"Mullins, Owen and Martinez",120.0,6,2025-01-12,59,2025-11-30T07:16:15.000Z,7,14,21,high
+100,2024-12-26,EU,pro,wrightmarcus@example.org,Walker-Turner,480.0,8,2025-09-25,64,2025-11-15T11:16:15.000Z,8,8,16,low
+128,2025-01-29,APAC,enterprise,johnbrowning@example.org,Smith-Rojas,2000.0,10,2025-10-23,187,2025-11-27T19:16:15.000Z,10,0,10,low
+68,2025-08-24,NA,free,ashley99@example.org,"Young, Giles and Campbell",,,,22,2025-11-16T11:16:15.000Z,2,0,2,low
+183,2025-01-17,LATAM,enterprise,hgriffith@example.com,White Ltd,2000.0,10,2025-10-11,327,2025-12-01T15:16:15.000Z,2,6,8,low
+284,2025-03-06,APAC,enterprise,gcarter@example.org,Thompson Inc,1800.0,9,2025-12-02,262,2025-12-02T13:16:15.000Z,2,12,14,low
+58,2024-08-05,EU,enterprise,tonyjenkins@example.org,Nguyen Group,2400.0,12,2025-07-30,213,2025-12-02T06:16:15.000Z,4,10,14,high
+198,2024-12-04,APAC,pro,xleon@example.net,Tucker-Dixon,720.0,12,2025-12-02,127,2025-12-01T22:16:15.000Z,8,6,14,low
+54,2025-09-21,NA,basic,molly25@example.com,Chung PLC,60.0,3,2025-11-18,48,2025-11-28T21:16:15.000Z,0,12,12,low
+151,2025-02-22,LATAM,basic,yangkayla@example.net,Dean Ltd,140.0,7,2025-09-23,74,2025-11-26T15:16:15.000Z,3,10,13,low
+460,2025-08-31,EU,enterprise,rangelkaren@example.net,"Gomez, Wong and Robinson",600.0,3,2025-12-02,275,2025-11-29T09:16:15.000Z,6,2,8,low
+55,2025-09-24,NA,pro,award@example.net,Cummings PLC,180.0,3,2025-11-22,180,2025-12-02T04:16:15.000Z,1,4,5,low
+231,2025-06-08,NA,basic,foxgregory@example.com,"Colon, Thomas and Frazier",100.0,5,2025-11-03,33,2025-11-29T04:16:15.000Z,7,8,15,low
+373,2025-08-18,EU,basic,linda06@example.org,"Tucker, Wang and Richardson",80.0,4,2025-11-17,42,2025-11-24T22:16:15.000Z,1,0,1,low
+313,2025-01-02,LATAM,basic,kimberly50@example.com,Williams-Mack,160.0,8,2025-09-01,87,2025-11-13T15:16:15.000Z,7,10,17,high
+215,2025-11-18,EU,pro,gardnerashley@example.org,"Rivera, Terry and Duncan",60.0,1,2025-11-19,128,2025-11-24T04:16:15.000Z,7,10,17,low
+471,2025-08-11,APAC,basic,whill@example.org,Klein Inc,60.0,3,2025-10-09,33,2025-11-30T01:16:15.000Z,6,0,6,low
+179,2024-08-05,NA,basic,rturner@example.org,"Johnson, Turner and Smith",60.0,3,2024-11-06,52,2025-11-18T12:16:15.000Z,1,2,3,high
+93,2025-01-30,NA,basic,valenzueladonald@example.com,"Johnson, Phillips and Clayton",60.0,3,2025-03-30,39,2025-11-29T08:16:15.000Z,2,2,4,high
+232,2025-11-30,LATAM,enterprise,michael39@example.net,White Inc,200.0,1,2025-11-29,196,2025-11-27T21:16:15.000Z,8,10,18,low
+172,2025-01-02,APAC,enterprise,alexanderstephanie@example.org,"Beasley, Thompson and Ruiz",1200.0,6,2025-05-31,243,2025-11-29T08:16:15.000Z,3,4,7,high
+378,2025-06-01,APAC,pro,lcrawford@example.org,Perkins-Hernandez,360.0,6,2025-12-01,60,2025-11-28T01:16:15.000Z,1,4,5,low
+45,2025-09-13,NA,enterprise,petersoncody@example.org,"Miller, Wagner and Jenkins",600.0,3,2025-11-10,203,2025-11-26T04:16:15.000Z,1,0,1,low
+390,2024-06-26,NA,pro,stanleystephanie@example.org,Burton and Sons,480.0,8,2025-02-19,106,2025-12-01T18:16:15.000Z,5,4,9,high
+365,2024-09-21,APAC,pro,kelleredward@example.org,"James, Wise and Mason",780.0,13,2025-09-19,159,2025-11-30T01:16:15.000Z,2,0,2,low
+85,2025-03-06,LATAM,basic,kellyoconnor@example.org,"Carpenter, Chapman and Wilson",180.0,9,2025-12-02,60,2025-10-26T15:16:15.000Z,6,10,16,low
+393,2025-04-21,LATAM,free,scott50@example.org,Baxter and Sons,20.0,1,2025-04-19,22,2025-11-26T17:16:15.000Z,4,0,4,high
+216,2025-10-17,NA,pro,mcdowelldennis@example.org,"Leonard, Allen and Gutierrez",60.0,1,2025-11-16,122,2025-11-30T05:16:15.000Z,7,10,17,low
+150,2024-08-29,APAC,basic,barnesamy@example.com,Atkinson-Swanson,160.0,8,2025-04-27,55,2025-11-04T22:16:15.000Z,1,8,9,high
+432,2024-10-10,APAC,free,jamievelez@example.org,Smith LLC,,,,20,2025-11-07T07:16:15.000Z,6,10,16,low
+63,2024-10-16,APAC,free,fowlerkimberly@example.org,"Jackson, Owens and Gonzalez",,,,19,2025-11-26T20:16:15.000Z,3,4,7,low
+463,2025-04-05,LATAM,free,susan27@example.org,Green PLC,10.0,1,2025-04-05,24,2025-11-18T23:16:15.000Z,1,0,1,high
+91,2024-11-19,APAC,basic,jillwelch@example.net,Manning Ltd,220.0,11,2025-11-16,68,2025-11-30T04:16:15.000Z,4,2,6,low
+27,2024-07-09,LATAM,enterprise,rsanchez@example.org,White-Knight,2800.0,14,2025-08-03,265,2025-12-02T15:16:15.000Z,8,8,16,high
+160,2024-10-30,NA,enterprise,bennettjames@example.org,Owen-Moon,1200.0,6,2025-03-30,160,2025-11-30T06:16:15.000Z,1,0,1,high
+455,2025-05-12,EU,pro,jared50@example.net,Singh-Strong,360.0,6,2025-11-10,84,2025-12-01T14:16:15.000Z,6,14,20,low
+407,2025-03-28,LATAM,enterprise,edaugherty@example.org,"Rodriguez, Jennings and Bruce",600.0,3,2025-08-22,448,2025-12-02T04:16:15.000Z,0,0,0,high
+121,2025-10-24,NA,enterprise,zperez@example.com,"Moore, Johnson and Ferrell",400.0,2,2025-11-21,354,2025-12-02T04:16:15.000Z,6,2,8,low
+205,2025-03-28,APAC,pro,gregorybrandon@example.org,Howard-Miller,480.0,8,2025-11-26,164,2025-12-01T07:16:15.000Z,6,10,16,low
+487,2025-09-29,LATAM,free,danielsbrandon@example.net,"Hamilton, Myers and Tyler",40.0,2,2025-10-28,11,2025-09-02T05:16:15.000Z,5,2,7,low
+74,2025-02-13,LATAM,enterprise,fisherrebecca@example.org,"Shah, Wilson and Jefferson",1600.0,8,2025-11-11,355,2025-12-01T11:16:15.000Z,1,0,1,low
+376,2025-02-20,EU,enterprise,ybush@example.org,Alvarez-Wilson,1800.0,9,2025-11-20,178,2025-11-29T01:16:15.000Z,4,10,14,low
+468,2024-08-09,LATAM,free,matthewcollins@example.net,"Munoz, Singleton and Morton",0.0,1,2024-08-08,22,2025-11-13T07:16:15.000Z,6,6,12,high
+423,2025-02-12,NA,free,timothy59@example.com,May and Sons,0.0,1,2025-02-09,16,2025-10-18T09:16:15.000Z,5,4,9,high
+82,2025-10-23,NA,enterprise,newmansarah@example.com,Mosley Ltd,400.0,2,2025-11-22,299,2025-12-02T14:16:15.000Z,6,8,14,low
+409,2025-01-19,APAC,basic,caldwellnancy@example.org,Keith-Marsh,220.0,11,2025-11-13,57,2025-11-29T02:16:15.000Z,5,2,7,low
+417,2025-01-06,APAC,basic,donna50@example.org,Bowman LLC,220.0,11,2025-11-29,64,2025-11-25T13:16:15.000Z,4,2,6,low
+375,2024-12-09,APAC,free,tammie61@example.org,"Klein, King and Murray",,,,25,2025-12-01T14:16:15.000Z,8,10,18,low
+389,2024-10-04,APAC,basic,iholland@example.org,Osborne-Powell,300.0,15,2025-11-30,48,2025-10-31T08:16:15.000Z,2,2,4,low
+131,2024-11-09,EU,pro,victoria78@example.com,Morgan PLC,240.0,4,2025-02-07,154,2025-11-29T14:16:15.000Z,7,10,17,high
+266,2024-07-10,APAC,pro,jeremyaguilar@example.net,Moody PLC,600.0,10,2025-05-07,118,2025-11-24T03:16:15.000Z,6,2,8,high
+323,2025-08-14,EU,enterprise,wellslaurie@example.com,Shelton Ltd,800.0,4,2025-11-10,152,2025-12-01T00:16:15.000Z,6,4,10,low
+161,2024-08-01,NA,pro,garyball@example.net,Singleton Ltd,360.0,6,2024-12-26,177,2025-11-29T13:16:15.000Z,3,8,11,high
+363,2024-12-20,LATAM,enterprise,shafferalexis@example.net,Salas-Reese,800.0,4,2025-03-21,422,2025-12-01T06:16:15.000Z,1,0,1,high
+120,2025-03-10,EU,pro,nicolekirby@example.org,"Wallace, Williams and Thompson",540.0,9,2025-11-06,134,2025-11-19T17:16:15.000Z,4,0,4,low
+336,2024-11-30,NA,enterprise,diamondcunningham@example.net,Smith-Callahan,1400.0,7,2025-05-29,416,2025-12-01T06:16:15.000Z,6,10,16,high
+385,2025-01-04,NA,free,denisegillespie@example.org,"Harper, Bullock and Johnson",,,,16,2025-11-07T17:16:15.000Z,4,6,10,low
+201,2025-03-30,LATAM,enterprise,robertseric@example.com,Brown Ltd,600.0,3,2025-05-27,263,2025-12-02T04:16:15.000Z,6,6,12,high
+267,2024-10-03,LATAM,enterprise,phillipsemily@example.net,"Park, Thomas and Casey",2600.0,13,2025-10-31,352,2025-11-27T13:16:15.000Z,1,2,3,low
+75,2025-06-27,EU,pro,brandon64@example.org,Strickland and Sons,360.0,6,2025-11-27,124,2025-11-27T16:16:15.000Z,6,14,20,low
+486,2024-07-30,EU,basic,melanie51@example.org,"Taylor, Mckee and Page",80.0,4,2024-10-31,43,2025-11-19T12:16:15.000Z,6,2,8,high
+318,2025-09-16,EU,basic,martinchelsea@example.org,Patel and Sons,60.0,3,2025-11-15,53,2025-11-26T22:16:15.000Z,4,14,18,low
+493,2024-12-28,APAC,free,george74@example.com,"Li, Johnson and Odonnell",0.0,1,2024-12-29,14,2025-11-02T09:16:15.000Z,5,12,17,high
+473,2025-04-02,LATAM,enterprise,maryjennings@example.net,Ferguson PLC,1800.0,9,2025-11-25,381,2025-12-02T10:16:15.000Z,4,8,12,low
+406,2025-09-03,LATAM,free,rebecca35@example.org,Padilla LLC,,,,27,2025-10-30T18:16:15.000Z,7,14,21,low
+368,2025-08-29,LATAM,free,jsuarez@example.org,Williams-Smith,30.0,2,2025-09-26,15,2025-11-29T21:16:15.000Z,2,8,10,low
+280,2025-07-26,APAC,free,gwarren@example.org,Luna-Johnson,,,,17,2025-12-01T14:16:15.000Z,5,6,11,low
+320,2024-10-24,NA,pro,wewing@example.com,Jones LLC,360.0,6,2025-03-20,80,2025-11-28T09:16:15.000Z,2,10,12,high
+384,2025-06-24,APAC,pro,james35@example.org,Cruz Group,240.0,4,2025-11-24,86,2025-11-27T12:16:15.000Z,3,0,3,low
+411,2024-06-28,NA,basic,rodriguezalan@example.org,"Patterson, Ortiz and Pruitt",260.0,13,2025-08-19,40,2025-11-30T12:16:15.000Z,6,10,16,high
+404,2024-10-14,NA,pro,taylormalik@example.org,"Malone, Johnston and Scott",180.0,3,2024-12-14,171,2025-11-30T03:16:15.000Z,3,2,5,high
+95,2025-06-26,APAC,pro,gwatson@example.net,Hoffman PLC,300.0,5,2025-11-20,160,2025-11-23T16:16:15.000Z,7,12,19,low
+444,2025-06-27,NA,pro,agonzalez@example.com,Gonzalez PLC,360.0,6,2025-11-24,158,2025-11-30T19:16:15.000Z,3,4,7,low
+445,2025-08-21,NA,pro,rwilliamson@example.com,Hernandez-Church,180.0,3,2025-11-22,104,2025-11-19T00:16:15.000Z,3,2,5,low
+383,2024-09-29,LATAM,pro,skennedy@example.org,Bennett Ltd,480.0,8,2025-05-24,88,2025-11-05T08:16:15.000Z,3,2,5,high
+442,2025-04-27,APAC,enterprise,millerholly@example.org,"Savage, Lee and Becker",1600.0,8,2025-11-21,154,2025-12-02T06:16:15.000Z,6,6,12,low
+400,2024-10-22,NA,enterprise,shawn12@example.com,Alexander-Luna,2600.0,13,2025-11-15,340,2025-12-01T09:16:15.000Z,6,8,14,low
+274,2024-12-14,APAC,enterprise,smithcaitlin@example.org,Garrett-Sanchez,600.0,3,2025-03-17,415,2025-12-01T05:16:15.000Z,1,0,1,high
+50,2024-11-15,LATAM,enterprise,gutierreznicole@example.com,Robinson LLC,1600.0,8,2025-06-14,220,2025-12-01T01:16:15.000Z,5,6,11,high
+162,2025-01-31,LATAM,enterprise,ronnieadkins@example.com,Donovan-Fields,1200.0,6,2025-06-30,396,2025-12-02T12:16:15.000Z,3,2,5,high
+211,2025-05-20,EU,enterprise,hollykelley@example.com,Diaz Inc,1200.0,6,2025-11-17,157,2025-11-30T11:16:15.000Z,7,8,15,low
+388,2024-09-24,LATAM,enterprise,bstone@example.net,"Harrison, Pratt and Blanchard",2400.0,12,2025-09-19,408,2025-11-30T17:16:15.000Z,3,6,9,low
+243,2025-09-11,NA,enterprise,gjennings@example.net,Shaw Ltd,200.0,1,2025-11-12,344,2025-11-30T11:16:15.000Z,5,2,7,low
+181,2025-06-14,NA,basic,bradshawreginald@example.com,Conway-Adkins,120.0,6,2025-11-09,58,2025-11-23T08:16:15.000Z,6,4,10,low
+261,2024-09-10,LATAM,free,mcfarlandcory@example.net,"Mcguire, Mendez and Schroeder",,,,27,2025-10-05T07:16:15.000Z,1,4,5,low
+10,2024-12-23,NA,free,dfoster@example.org,Eaton and Sons,,,,15,2025-11-02T14:16:15.000Z,4,2,6,low
+16,2025-04-13,APAC,free,gregory09@example.com,Conner Ltd,,,,14,2025-11-04T20:16:15.000Z,4,0,4,low
+307,2025-10-13,LATAM,pro,wmathews@example.net,Coleman Group,120.0,2,2025-11-09,159,2025-11-28T18:16:15.000Z,2,0,2,low
+264,2025-08-29,EU,free,daniellepittman@example.org,Taylor-Jones,,,,16,2025-11-18T05:16:15.000Z,7,6,13,low
+315,2024-07-07,APAC,basic,sandra88@example.com,"Hansen, Brown and Frazier",100.0,5,2024-12-03,35,2025-11-16T21:16:15.000Z,9,6,15,high
+110,2025-11-07,EU,pro,millsamber@example.org,Smith-Harrison,60.0,1,2025-11-07,71,2025-11-30T06:16:15.000Z,8,4,12,low
+422,2025-10-25,NA,pro,mshepherd@example.org,Nelson-Perez,120.0,2,2025-11-21,70,2025-11-25T01:16:15.000Z,2,4,6,low
+452,2025-05-18,APAC,enterprise,jowen@example.net,Morgan-Wood,1200.0,6,2025-11-14,237,2025-12-02T13:16:15.000Z,5,2,7,low
+225,2025-08-03,LATAM,basic,briannaadkins@example.net,"Dennis, Brown and Moyer",100.0,5,2025-12-02,43,2025-11-30T12:16:15.000Z,7,10,17,low
+7,2024-08-30,APAC,free,ariel70@example.net,Watson-Miller,,,,30,2025-11-16T00:16:15.000Z,6,0,6,low
+53,2025-04-11,EU,free,nschultz@example.com,Calderon Inc,,,,10,2025-06-25T05:16:15.000Z,2,10,12,low
+116,2025-11-08,EU,enterprise,wconner@example.org,Williamson-Lee,200.0,1,2025-11-05,170,2025-12-02T06:16:15.000Z,6,16,22,low
+333,2025-10-30,APAC,basic,stephanie03@example.org,Anderson Ltd,40.0,2,2025-11-26,83,2025-11-24T11:16:15.000Z,0,2,2,low
+397,2025-11-25,LATAM,enterprise,sarasolomon@example.com,Waller-West,200.0,1,2025-11-28,158,2025-11-30T21:16:15.000Z,7,16,23,low
+269,2024-11-05,EU,basic,micheal55@example.net,Howe LLC,220.0,11,2025-10-28,48,2025-11-28T04:16:15.000Z,3,10,13,low
+414,2025-03-15,EU,basic,tracycrawford@example.com,Hall and Sons,120.0,6,2025-10-12,68,2025-12-02T08:16:15.000Z,1,2,3,low
+169,2025-07-17,LATAM,basic,jwells@example.org,"Adams, Santos and Newman",60.0,3,2025-09-16,54,2025-11-18T13:16:15.000Z,6,8,14,low
+419,2024-09-06,APAC,pro,kramerwesley@example.net,Sullivan-Hansen,540.0,9,2025-07-05,94,2025-11-25T14:16:15.000Z,4,2,6,high
+319,2024-10-22,APAC,free,nholloway@example.net,Rodriguez-Hartman,,,,27,2025-10-26T01:16:15.000Z,4,6,10,low
+415,2025-06-29,NA,basic,wturner@example.org,"Davila, Brown and Petersen",120.0,6,2025-11-29,86,2025-11-27T14:16:15.000Z,8,10,18,low
+176,2025-09-23,NA,free,sharris@example.net,"Saunders, Randolph and Shaw",,,,15,2025-11-27T11:16:15.000Z,4,8,12,low
+156,2024-11-05,EU,basic,johnnyyork@example.net,Mueller Inc,100.0,5,2025-04-03,51,2025-11-19T07:16:15.000Z,5,8,13,high
+328,2024-07-16,NA,free,ljackson@example.net,Williams-Harris,,,,19,2025-11-10T12:16:15.000Z,5,10,15,low
+233,2024-08-08,APAC,free,brightbeth@example.net,Fleming-Mccoy,,,,24,2025-11-25T07:16:15.000Z,6,6,12,low
+191,2025-06-05,APAC,enterprise,kimberly83@example.org,Hernandez-Johnston,1200.0,6,2025-11-01,245,2025-11-30T10:16:15.000Z,7,6,13,low
+104,2025-07-04,LATAM,basic,hrogers@example.net,Boyd Group,120.0,6,2025-12-01,62,2025-11-25T16:16:15.000Z,5,2,7,low
+249,2025-08-31,LATAM,pro,robinsonpaul@example.net,"Simmons, Chung and Bates",240.0,4,2025-11-29,103,2025-12-01T12:16:15.000Z,9,8,17,low
+19,2025-06-19,APAC,pro,meganwalls@example.org,Schmitt-Alvarez,300.0,5,2025-11-18,63,2025-11-10T11:16:15.000Z,3,4,7,low
+341,2025-09-23,EU,basic,cynthia32@example.com,"Sandoval, Garcia and Martin",60.0,3,2025-11-19,85,2025-11-19T08:16:15.000Z,2,4,6,low
+350,2024-08-02,LATAM,pro,paul88@example.com,Holmes-Shaw,660.0,11,2025-05-26,70,2025-11-25T13:16:15.000Z,10,0,10,high
+440,2024-09-25,APAC,free,wanderson@example.net,Hill PLC,0.0,1,2024-09-25,20,2025-11-24T05:16:15.000Z,7,4,11,high
+441,2024-11-26,APAC,basic,dustintorres@example.net,"Burke, Bowman and Warner",240.0,12,2025-11-20,38,2025-11-29T00:16:15.000Z,7,0,7,low
+429,2025-10-23,EU,enterprise,benjamin97@example.com,Fields-Jennings,400.0,2,2025-11-21,439,2025-12-02T15:16:15.000Z,2,4,6,low
+79,2024-06-30,NA,basic,ashleyhowell@example.net,Morris-Phelps,180.0,9,2025-02-23,49,2025-11-25T11:16:15.000Z,0,4,4,high
+283,2025-06-27,NA,enterprise,ljackson@example.org,Garcia-Riley,1200.0,6,2025-11-23,431,2025-11-30T18:16:15.000Z,1,0,1,low
+92,2024-09-10,APAC,free,patrickwilliams@example.org,"Simpson, Tran and Hebert",,,,19,2025-10-07T08:16:15.000Z,5,8,13,low
+21,2025-06-10,EU,basic,michael83@example.com,Hill PLC,120.0,6,2025-11-09,60,2025-11-28T15:16:15.000Z,4,0,4,low
+364,2024-10-03,NA,pro,teresa88@example.com,Rodriguez-Hamilton,480.0,8,2025-05-29,76,2025-11-21T03:16:15.000Z,4,8,12,high
+182,2025-01-18,NA,free,floresrobin@example.net,"Diaz, Grant and Matthews",,,,26,2025-11-25T23:16:15.000Z,0,2,2,low
+286,2025-01-12,LATAM,free,nancydavis@example.com,Summers PLC,,,,13,2025-11-10T03:16:15.000Z,3,10,13,low
+98,2025-10-11,NA,enterprise,charles61@example.org,Maddox-Miller,400.0,2,2025-11-12,178,2025-12-01T08:16:15.000Z,7,6,13,low
+124,2025-05-22,APAC,free,bridgesjoseph@example.org,"Ibarra, Williams and Bennett",10.0,1,2025-05-20,22,2025-11-20T06:16:15.000Z,4,0,4,high
+431,2024-11-16,APAC,enterprise,loganwesley@example.net,Taylor Group,2200.0,11,2025-11-11,184,2025-11-29T10:16:15.000Z,2,2,4,low
+115,2025-01-24,EU,basic,ashleywilliams@example.org,James LLC,140.0,7,2025-07-22,67,2025-11-27T23:16:15.000Z,3,4,7,high
+248,2025-05-31,LATAM,enterprise,hollowaymaureen@example.com,"Ross, Patterson and Harris",1000.0,5,2025-10-27,290,2025-11-28T17:16:15.000Z,6,6,12,low
+76,2025-04-24,NA,free,richard22@example.org,"Sanchez, Carson and Hudson",,,,23,2025-10-02T19:16:15.000Z,4,0,4,low
+426,2025-01-07,LATAM,basic,tjohnson@example.org,Thompson-Walker,180.0,9,2025-09-05,59,2025-11-21T15:16:15.000Z,0,4,4,low
+236,2025-03-07,EU,enterprise,gmoreno@example.net,"Ramos, Lang and Huang",2000.0,10,2025-12-01,311,2025-11-29T10:16:15.000Z,2,2,4,low
+101,2025-06-20,LATAM,enterprise,xlopez@example.org,White LLC,1000.0,5,2025-11-14,337,2025-12-02T15:16:15.000Z,3,0,3,low
+327,2025-10-17,NA,pro,romerobrian@example.net,Kerr Inc,120.0,2,2025-11-14,114,2025-11-27T15:16:15.000Z,4,2,6,low
+479,2025-09-24,NA,enterprise,sawyertracy@example.org,Jenkins-Kelley,600.0,3,2025-11-26,424,2025-11-25T19:16:15.000Z,7,12,19,low
+107,2025-03-22,NA,pro,michaeljimenez@example.net,Gray PLC,420.0,7,2025-09-17,109,2025-11-20T22:16:15.000Z,2,2,4,low
+197,2025-05-30,LATAM,basic,ncampbell@example.org,Cook Inc,100.0,5,2025-11-24,45,2025-11-21T18:16:15.000Z,3,10,13,low
+472,2025-01-28,NA,free,john49@example.net,"Ortiz, Mcintyre and Kelly",,,,25,2025-12-02T09:16:15.000Z,5,2,7,low
+281,2024-09-08,NA,enterprise,garycampbell@example.net,Clark PLC,2600.0,13,2025-10-04,390,2025-12-01T23:16:15.000Z,2,0,2,low
+335,2024-11-26,NA,pro,schmidtrobin@example.com,White-Brown,600.0,10,2025-08-26,90,2025-11-17T18:16:15.000Z,4,8,12,high
+3,2025-08-20,NA,enterprise,michaelgallagher@example.com,Fisher-Kramer,800.0,4,2025-11-21,185,2025-11-30T19:16:15.000Z,2,0,2,low
+109,2025-06-19,EU,enterprise,gfrazier@example.com,Castillo-Harper,600.0,3,2025-08-15,368,2025-11-30T17:16:15.000Z,5,6,11,high
+143,2024-10-19,EU,basic,troycooper@example.com,Valdez-Gonzalez,220.0,11,2025-10-16,31,2025-11-19T11:16:15.000Z,7,8,15,low
+145,2025-04-22,EU,enterprise,hcross@example.com,Cochran-Levy,1200.0,6,2025-09-20,321,2025-11-27T17:16:15.000Z,1,2,3,low
+343,2025-11-30,APAC,basic,charlesquinn@example.org,Woods Group,20.0,1,2025-11-30,86,2025-12-02T04:16:15.000Z,4,2,6,low
+132,2024-10-13,NA,pro,antonio45@example.com,Baker-Chavez,180.0,3,2024-12-10,142,2025-11-26T16:16:15.000Z,4,0,4,high
+126,2024-11-25,LATAM,free,michaelbennett@example.com,"Campbell, Sutton and Sanchez",,,,30,2025-11-14T18:16:15.000Z,4,6,10,low
+227,2024-09-05,APAC,enterprise,bryan58@example.com,Gomez Group,1600.0,8,2025-05-01,221,2025-12-02T12:16:15.000Z,2,2,4,high
+5,2025-04-23,EU,free,susan57@example.net,Castillo Ltd,,,,14,2025-11-23T03:16:15.000Z,4,8,12,low
+217,2025-07-26,LATAM,free,allenbrown@example.net,"Garcia, Wilson and Williams",20.0,1,2025-07-24,26,2025-11-15T13:16:15.000Z,3,2,5,high
+202,2025-03-31,LATAM,enterprise,angelica85@example.com,Ray and Sons,1800.0,9,2025-11-24,426,2025-11-30T14:16:15.000Z,2,4,6,low
+14,2025-09-13,APAC,pro,johnsonlaura@example.net,"Phillips, Byrd and Green",180.0,3,2025-11-13,133,2025-11-30T12:16:15.000Z,3,4,7,low
+23,2025-04-22,APAC,free,zterry@example.net,Vega-Brooks,,,,26,2025-10-03T20:16:15.000Z,4,2,6,low
+81,2024-10-15,NA,basic,qanthony@example.net,Rodriguez LLC,80.0,4,2025-02-13,57,2025-11-26T07:16:15.000Z,3,4,7,high
+164,2025-02-26,LATAM,enterprise,hollypotts@example.org,Simmons-Miller,2000.0,10,2025-11-22,196,2025-11-30T20:16:15.000Z,2,8,10,low
+194,2025-02-20,LATAM,basic,xford@example.org,"Kennedy, Kaufman and Nichols",40.0,2,2025-03-22,86,2025-11-30T11:16:15.000Z,3,6,9,high
+312,2025-07-21,NA,pro,tylergraves@example.com,Hall-Gallagher,240.0,4,2025-11-19,102,2025-11-27T04:16:15.000Z,2,2,4,low
+77,2025-01-15,NA,free,jonathan45@example.com,Clarke Inc,,,,29,2025-12-02T03:16:15.000Z,1,8,9,low
+223,2025-10-09,EU,basic,heatherwilson@example.org,Clarke-White,40.0,2,2025-11-07,31,2025-11-23T03:16:15.000Z,1,2,3,low
+451,2025-04-02,APAC,enterprise,sarah52@example.com,Riggs-Young,1600.0,8,2025-12-01,420,2025-12-02T16:16:15.000Z,8,8,16,low
+18,2025-02-21,LATAM,pro,valerieowens@example.com,"Ware, Perry and Jennings",540.0,9,2025-11-18,129,2025-11-29T21:16:15.000Z,7,12,19,low
+60,2025-08-25,LATAM,pro,jwang@example.org,"Houston, Mcconnell and Long",240.0,4,2025-11-22,76,2025-11-19T20:16:15.000Z,4,6,10,low
+235,2024-08-25,NA,basic,zcarpenter@example.org,Newman PLC,220.0,11,2025-08-20,49,2025-11-27T07:16:15.000Z,2,10,12,high
+190,2024-08-19,EU,enterprise,ewhite@example.net,Sims PLC,1200.0,6,2025-02-14,230,2025-11-28T18:16:15.000Z,5,2,7,high
+239,2025-10-02,EU,pro,lisa32@example.org,"Wright, Phillips and Johnson",180.0,3,2025-11-30,114,2025-11-24T00:16:15.000Z,6,12,18,low
+83,2024-06-15,APAC,pro,robert74@example.com,"Long, Alvarez and Romero",540.0,9,2025-07-08,88,2025-11-17T22:16:15.000Z,5,6,11,high
+51,2025-08-01,EU,basic,rogersalison@example.com,Silva-Mcpherson,100.0,5,2025-11-26,74,2025-12-02T03:16:15.000Z,9,4,13,low
+140,2025-10-16,EU,enterprise,campbellkari@example.net,"Moreno, Romero and Arnold",400.0,2,2025-11-15,215,2025-12-02T13:16:15.000Z,6,10,16,low
+399,2025-04-11,APAC,free,kinglance@example.com,Hill and Sons,10.0,1,2025-04-14,16,2025-10-29T07:16:15.000Z,9,4,13,high
+272,2025-02-16,APAC,enterprise,christopher62@example.org,Cox and Sons,1000.0,5,2025-08-16,214,2025-12-02T04:16:15.000Z,6,0,6,high
+59,2024-10-12,EU,free,ruth17@example.com,Lucas Group,20.0,1,2024-10-12,22,2025-11-17T13:16:15.000Z,2,0,2,high
+438,2025-09-07,APAC,enterprise,armstrongscott@example.com,"Ortega, Benson and Gilmore",600.0,3,2025-11-06,203,2025-12-01T20:16:15.000Z,0,2,2,low
+450,2025-02-14,LATAM,basic,john53@example.com,Rojas-Moore,200.0,10,2025-11-11,51,2025-11-12T02:16:15.000Z,4,10,14,low
+66,2025-05-29,APAC,enterprise,ntate@example.org,Wallace Group,1200.0,6,2025-11-26,436,2025-12-02T10:16:15.000Z,6,4,10,low
+84,2025-05-07,APAC,basic,nicholas81@example.com,Jones PLC,140.0,7,2025-11-06,72,2025-12-02T07:16:15.000Z,3,6,9,low
+34,2024-11-03,LATAM,enterprise,kendra44@example.net,"Gomez, Powell and Valdez",1200.0,6,2025-05-03,156,2025-12-02T06:16:15.000Z,3,4,7,high
+334,2024-09-04,LATAM,basic,tjohnson@example.com,Gutierrez and Sons,240.0,12,2025-08-29,34,2025-11-26T02:16:15.000Z,8,6,14,high
+242,2025-02-27,LATAM,enterprise,lphillips@example.net,"Oneill, White and Palmer",600.0,3,2025-05-30,330,2025-12-01T00:16:15.000Z,2,0,2,high
+453,2024-08-17,APAC,enterprise,cynthia45@example.net,Gray LLC,1000.0,5,2024-12-12,317,2025-12-01T10:16:15.000Z,4,10,14,high
+262,2025-11-03,EU,basic,michealgamble@example.net,Novak-Mendoza,20.0,1,2025-11-04,60,2025-11-28T13:16:15.000Z,2,4,6,low
+102,2025-11-23,NA,free,clarkjames@example.com,Fernandez-Guzman,,,,25,2025-11-09T16:16:15.000Z,2,6,8,low
+425,2025-10-21,LATAM,basic,julia63@example.org,Rodriguez LLC,20.0,1,2025-10-19,89,2025-11-24T15:16:15.000Z,3,4,7,low
+199,2025-02-19,APAC,free,christian23@example.net,Cook-Lopez,,,,13,2025-07-15T21:16:15.000Z,8,6,14,low
+245,2025-08-31,EU,free,evanjohnson@example.com,"Fernandez, Jackson and Willis",,,,14,2025-10-26T11:16:15.000Z,0,2,2,low
+268,2025-03-28,LATAM,basic,danielelliott@example.org,Larsen-Wiley,160.0,8,2025-10-25,60,2025-11-30T02:16:15.000Z,5,10,15,low
+103,2025-07-03,NA,pro,kurt84@example.net,Shaw-Anderson,360.0,6,2025-11-30,85,2025-11-28T00:16:15.000Z,3,2,5,low
+119,2024-12-28,NA,free,benjaminbobby@example.com,Shannon Inc,,,,19,2025-10-06T09:16:15.000Z,1,2,3,low
+226,2024-06-15,LATAM,enterprise,davismary@example.net,"Burton, Howe and Bennett",1400.0,7,2024-12-10,429,2025-11-30T18:16:15.000Z,5,4,9,high
+29,2025-03-25,APAC,enterprise,thomas39@example.org,Wang-Benjamin,1800.0,9,2025-11-23,350,2025-12-02T12:16:15.000Z,7,8,15,low
+301,2025-01-30,LATAM,pro,fbrown@example.com,Richardson Group,660.0,11,2025-11-23,176,2025-12-01T12:16:15.000Z,0,2,2,low
+396,2025-02-09,APAC,free,owensaaron@example.com,King Group,,,,27,2025-11-29T00:16:15.000Z,4,6,10,low
+402,2025-01-16,LATAM,enterprise,vrodgers@example.com,Henson-Martinez,200.0,1,2025-01-19,217,2025-11-28T09:16:15.000Z,1,0,1,high
+356,2024-07-18,LATAM,free,onealwilliam@example.net,"Hoover, Casey and Wilson",,,,12,2025-12-01T17:16:15.000Z,3,0,3,low
+206,2024-08-05,APAC,enterprise,christopherhicks@example.org,Lozano Inc,1600.0,8,2025-02-28,181,2025-11-27T21:16:15.000Z,4,2,6,high
+458,2025-09-08,EU,pro,lmoore@example.net,Garcia PLC,120.0,2,2025-11-09,102,2025-12-02T06:16:15.000Z,1,0,1,low
+105,2025-10-21,APAC,pro,feliciamorris@example.net,"Jordan, Gutierrez and Green",120.0,2,2025-11-17,166,2025-11-27T13:16:15.000Z,2,0,2,low
+322,2025-03-09,LATAM,pro,perrykrystal@example.org,Thompson Ltd,480.0,8,2025-11-01,78,2025-11-22T22:16:15.000Z,2,4,6,low
+177,2025-03-24,EU,free,lisa63@example.com,Fischer Inc,,,,19,2025-11-21T21:16:15.000Z,7,12,19,low
+175,2025-10-10,APAC,basic,markrussell@example.net,Parks PLC,40.0,2,2025-11-10,88,2025-11-28T19:16:15.000Z,3,0,3,low
+497,2024-11-21,APAC,free,aaronberry@example.com,Wright-Murphy,,,,16,2025-11-22T17:16:15.000Z,4,4,8,low
+244,2025-01-06,APAC,free,rebecca43@example.net,"Perez, Wright and Williams",0.0,1,2025-01-04,24,2025-09-28T20:16:15.000Z,5,6,11,high
+4,2025-10-31,NA,free,maria31@example.net,Thomas Ltd,,,,29,2025-11-06T04:16:15.000Z,5,6,11,low
+260,2025-03-04,EU,pro,vjackson@example.org,"Davis, Chen and Green",480.0,8,2025-10-03,180,2025-12-01T09:16:15.000Z,0,6,6,low
+108,2024-10-12,EU,basic,lynn62@example.org,Roberts PLC,180.0,9,2025-08-09,78,2025-11-17T04:16:15.000Z,1,0,1,high
+273,2025-07-03,LATAM,enterprise,jimeneznicholas@example.net,"Cooper, Johnson and Gomez",1000.0,5,2025-11-01,239,2025-11-30T15:16:15.000Z,3,2,5,low
+70,2024-10-12,LATAM,enterprise,lorraine45@example.com,Williams-Schneider,1800.0,9,2025-08-07,236,2025-11-28T21:16:15.000Z,0,6,6,high
+146,2025-10-12,EU,free,pricejoseph@example.org,Harmon-Kelly,10.0,1,2025-10-10,18,2025-12-01T22:16:15.000Z,5,10,15,low
+424,2024-07-01,LATAM,enterprise,kathymiller@example.com,"Dunn, Trevino and Burton",600.0,3,2024-09-01,319,2025-12-01T07:16:15.000Z,1,0,1,high
+15,2025-05-20,NA,free,lewismark@example.net,Juarez and Sons,,,,25,2025-11-14T15:16:15.000Z,2,10,12,low
+353,2024-06-17,APAC,enterprise,virginiatownsend@example.org,"Mckee, Wang and Knight",2000.0,10,2025-03-17,247,2025-12-01T17:16:15.000Z,5,8,13,high
+167,2025-07-25,NA,enterprise,duanewatson@example.com,Rios-Moore,1000.0,5,2025-11-19,431,2025-11-30T18:16:15.000Z,2,2,4,low
+258,2024-06-20,APAC,enterprise,nashrichard@example.net,Young LLC,2800.0,14,2025-08-16,369,2025-12-01T11:16:15.000Z,4,0,4,high
+401,2025-11-13,LATAM,free,xpatterson@example.net,Garrett Ltd,0.0,1,2025-11-14,24,2025-12-01T04:16:15.000Z,6,4,10,low
+17,2025-04-08,NA,enterprise,armstrongjoseph@example.net,Potts Inc,1200.0,6,2025-09-06,349,2025-11-29T04:16:15.000Z,11,10,21,low
+195,2024-08-14,LATAM,pro,alexanderlaurie@example.com,Kelly-Ross,480.0,8,2025-04-11,174,2025-12-01T21:16:15.000Z,7,4,11,high
+351,2024-06-25,NA,enterprise,bstephens@example.org,Morgan LLC,2200.0,11,2025-04-19,407,2025-12-01T03:16:15.000Z,2,4,6,high
+88,2025-08-22,NA,basic,jameslewis@example.net,"Wright, Williams and Mejia",80.0,4,2025-11-19,45,2025-11-25T14:16:15.000Z,0,4,4,low
+221,2024-07-31,NA,free,kyleharvey@example.org,Gutierrez PLC,20.0,1,2024-07-31,22,2025-11-15T01:16:15.000Z,1,4,5,high
+22,2024-08-16,LATAM,pro,megan26@example.com,Fowler-Allen,780.0,13,2025-09-07,61,2025-11-28T16:16:15.000Z,5,6,11,low
+142,2025-05-17,LATAM,enterprise,michael27@example.com,Jimenez Inc,1400.0,7,2025-11-10,334,2025-12-01T22:16:15.000Z,2,4,6,low
+196,2025-11-03,LATAM,pro,williamslisa@example.com,Simpson-Wade,60.0,1,2025-11-05,72,2025-11-16T03:16:15.000Z,0,2,2,low
+189,2025-08-16,LATAM,pro,tstewart@example.com,Bender-Silva,240.0,4,2025-11-15,123,2025-12-01T10:16:15.000Z,1,8,9,low
+386,2025-06-26,EU,free,ryan18@example.net,Jackson-Stewart,0.0,1,2025-06-24,19,2025-11-24T06:16:15.000Z,5,10,15,high
+352,2024-07-05,EU,free,lroy@example.org,Wilson-Bennett,,,,12,2025-11-18T06:16:15.000Z,8,4,12,low
+433,2024-12-25,NA,pro,karenthompson@example.org,"Petersen, Edwards and Edwards",600.0,10,2025-09-18,77,2025-12-01T03:16:15.000Z,8,6,14,low
+478,2025-05-25,NA,pro,jeffrey38@example.com,Mcdonald LLC,240.0,4,2025-08-20,154,2025-12-01T07:16:15.000Z,4,0,4,high
+130,2025-07-25,EU,enterprise,jason37@example.com,Coleman-Edwards,1000.0,5,2025-11-21,190,2025-11-27T22:16:15.000Z,2,2,4,low
+348,2025-03-06,NA,basic,tknapp@example.net,Ramos-Carter,60.0,3,2025-05-08,86,2025-11-30T03:16:15.000Z,1,4,5,high
+410,2024-12-26,EU,free,rbenson@example.org,"Adams, Rogers and Garrison",,,,17,2025-11-28T07:16:15.000Z,5,10,15,low
+113,2025-10-24,LATAM,basic,jamesbaker@example.net,Mcneil PLC,40.0,2,2025-11-25,63,2025-11-24T12:16:15.000Z,3,6,9,low
+30,2024-10-20,APAC,basic,troygarcia@example.org,Johnson Ltd,200.0,10,2025-08-19,90,2025-11-20T13:16:15.000Z,1,2,3,high
+374,2024-07-27,EU,free,julia15@example.com,Garcia-Doyle,,,,14,2025-09-13T13:16:15.000Z,5,4,9,low
+80,2025-09-23,NA,basic,timothyoneill@example.net,Bennett-Hickman,40.0,2,2025-11-22,35,2025-11-04T22:16:15.000Z,0,8,8,low
+304,2025-04-04,LATAM,pro,amandajenkins@example.com,Banks-Clark,420.0,7,2025-12-01,95,2025-11-25T02:16:15.000Z,1,0,1,low
+148,2025-01-12,LATAM,enterprise,raymond29@example.org,Hale Inc,1400.0,7,2025-08-09,312,2025-12-02T13:16:15.000Z,4,10,14,high
+449,2024-11-24,EU,enterprise,mshannon@example.net,"Todd, Zimmerman and Hernandez",600.0,3,2025-02-25,329,2025-12-01T23:16:15.000Z,6,6,12,high
+37,2025-02-05,LATAM,basic,dwayne78@example.net,Huynh-Hogan,140.0,7,2025-11-01,78,2025-11-30T21:16:15.000Z,3,14,17,low
+246,2025-03-02,NA,basic,mgates@example.net,Moore Inc,180.0,9,2025-11-26,47,2025-11-25T08:16:15.000Z,5,6,11,low
+277,2024-10-08,NA,pro,donald57@example.net,Ball and Sons,300.0,5,2025-03-06,127,2025-12-01T02:16:15.000Z,3,0,3,high
+495,2024-09-08,LATAM,pro,christopher77@example.net,"Valdez, Black and Cantu",780.0,13,2025-09-01,93,2025-11-28T04:16:15.000Z,11,6,17,high
+204,2025-02-04,EU,enterprise,jasonmiller@example.org,Thompson and Sons,1600.0,8,2025-10-04,185,2025-11-24T21:16:15.000Z,2,8,10,low
+209,2025-04-10,NA,basic,matthewmontoya@example.org,Evans and Sons,140.0,7,2025-10-09,36,2025-12-02T06:16:15.000Z,9,4,13,low
+56,2025-09-21,EU,pro,michael88@example.org,"Mitchell, Chapman and Larson",180.0,3,2025-11-22,148,2025-12-02T04:16:15.000Z,6,6,12,low
+153,2025-02-13,EU,pro,clopez@example.net,Walker PLC,600.0,10,2025-11-07,129,2025-11-29T09:16:15.000Z,3,8,11,low
+154,2024-12-24,APAC,free,virginiamitchell@example.com,"Watson, Schultz and Stewart",30.0,2,2025-01-23,29,2025-10-22T15:16:15.000Z,5,10,15,high
+398,2025-06-06,EU,enterprise,melinda88@example.org,"Villegas, Anderson and Snyder",1200.0,6,2025-11-03,164,2025-12-02T05:16:15.000Z,2,2,4,low
+293,2024-09-17,EU,basic,davisrobert@example.org,Chandler-Hart,280.0,14,2025-11-14,59,2025-11-26T10:16:15.000Z,5,10,15,low
+279,2025-06-30,LATAM,free,holly84@example.com,"King, Stone and Williams",,,,20,2025-11-11T03:16:15.000Z,5,10,15,low
+13,2024-08-19,NA,enterprise,crodriguez@example.net,Mclean-Miller,2000.0,10,2025-07-13,151,2025-11-30T20:16:15.000Z,7,8,15,high
+241,2024-08-10,APAC,enterprise,marybarnes@example.com,"Ruiz, Hernandez and Wright",2400.0,12,2025-08-02,428,2025-12-01T15:16:15.000Z,0,2,2,high
+276,2025-04-02,LATAM,basic,xlewis@example.net,Silva and Sons,100.0,5,2025-08-02,85,2025-11-22T13:16:15.000Z,6,8,14,high
+391,2024-09-18,NA,pro,newtonsusan@example.net,Huff Ltd,360.0,6,2025-03-18,70,2025-11-21T03:16:15.000Z,13,6,19,high
+443,2025-05-20,EU,basic,griffintiffany@example.org,Collins-Castillo,140.0,7,2025-11-17,65,2025-11-08T07:16:15.000Z,3,4,7,low
+112,2025-06-22,NA,enterprise,clarkfrank@example.com,"Higgins, Johnson and Mcpherson",1200.0,6,2025-11-16,246,2025-11-25T17:16:15.000Z,2,4,6,low
+416,2024-07-15,LATAM,enterprise,justinwallace@example.org,Buckley Inc,2000.0,10,2025-04-09,435,2025-12-01T03:16:15.000Z,4,14,18,high
+218,2025-11-20,APAC,enterprise,gonzalezmichael@example.org,Mcdowell-Lindsey,200.0,1,2025-11-19,326,2025-12-01T06:16:15.000Z,1,0,1,low
+439,2024-12-31,EU,free,vegaangel@example.com,"Hunter, Hall and Miller",,,,23,2025-11-24T12:16:15.000Z,2,8,10,low
+123,2024-06-27,NA,enterprise,kimberly09@example.com,Sanchez-Roman,2200.0,11,2025-04-24,371,2025-12-02T09:16:15.000Z,6,6,12,high
+237,2025-08-07,EU,basic,campbelljoanna@example.org,"Thornton, Pugh and Hunter",60.0,3,2025-10-08,58,2025-11-28T04:16:15.000Z,3,2,5,low
+457,2025-08-19,NA,pro,linda07@example.com,"King, Bridges and Fletcher",120.0,2,2025-10-18,133,2025-12-02T13:16:15.000Z,0,6,6,low
+282,2025-11-17,EU,enterprise,woodjay@example.com,Malone LLC,200.0,1,2025-11-15,182,2025-11-22T04:16:15.000Z,9,14,23,low
+394,2025-11-25,EU,pro,milesrobert@example.net,Gomez PLC,60.0,1,2025-11-24,71,2025-11-27T06:16:15.000Z,3,6,9,low
+229,2025-05-04,EU,pro,ronaldlopez@example.org,"Bauer, Case and Peterson",420.0,7,2025-12-01,74,2025-11-24T08:16:15.000Z,4,10,14,low
+180,2024-08-13,APAC,pro,christopher32@example.net,Leblanc-Ortiz,180.0,3,2024-10-15,169,2025-11-18T17:16:15.000Z,7,2,9,high
+275,2024-08-23,APAC,basic,gsummers@example.net,Torres-Scott,140.0,7,2025-03-22,70,2025-11-19T00:16:15.000Z,6,10,16,high
+292,2025-02-05,APAC,pro,castillomichael@example.net,Griffin LLC,600.0,10,2025-11-29,94,2025-11-25T21:16:15.000Z,3,8,11,low
+340,2025-03-28,EU,basic,michael45@example.com,Gilbert Ltd,100.0,5,2025-07-23,37,2025-11-13T21:16:15.000Z,9,2,11,high
+28,2025-07-09,APAC,basic,johnsontonya@example.net,Mathis-Johnson,60.0,3,2025-11-09,52,2025-11-25T05:16:15.000Z,8,10,18,low
+200,2024-06-21,EU,free,sperez@example.org,Turner-Rivera,,,,23,2025-11-20T03:16:15.000Z,9,8,17,low
+259,2024-09-06,NA,basic,justin29@example.com,Garrett and Sons,200.0,10,2025-06-02,51,2025-11-03T23:16:15.000Z,4,4,8,high
+106,2025-10-23,APAC,basic,thomasann@example.org,"Jenkins, Mendoza and Henderson",40.0,2,2025-11-22,54,2025-12-02T16:16:15.000Z,1,2,3,low
+42,2025-01-05,LATAM,free,tarakeith@example.net,Whitney Group,0.0,1,2025-01-03,13,2025-10-24T15:16:15.000Z,0,0,0,high
+344,2025-07-22,APAC,basic,sanfordmichael@example.org,Howell-Hinton,80.0,4,2025-11-21,84,2025-11-29T15:16:15.000Z,4,6,10,low
+127,2024-12-29,APAC,free,williambrown@example.net,"Mills, Gomez and Hopkins",0.0,2,2025-01-25,12,2025-11-21T19:16:15.000Z,4,10,14,high
+213,2025-05-18,APAC,basic,allisonsherman@example.net,Middleton-Bruce,140.0,7,2025-11-11,88,2025-12-01T18:16:15.000Z,3,10,13,low
+69,2025-08-29,EU,basic,frenchemily@example.net,Henderson-Barnett,60.0,3,2025-11-28,87,2025-12-02T00:16:15.000Z,4,10,14,low
+230,2025-09-10,EU,basic,jordanstephen@example.com,Aguirre-Anderson,60.0,3,2025-11-07,44,2025-11-28T16:16:15.000Z,6,16,22,low
+494,2024-11-21,LATAM,enterprise,smithemily@example.net,Butler-Johnson,2600.0,13,2025-11-18,397,2025-11-29T14:16:15.000Z,5,4,9,low
+474,2025-09-29,NA,enterprise,stacybarrett@example.org,Hood and Sons,600.0,3,2025-11-28,219,2025-11-30T21:16:15.000Z,5,8,13,low
+377,2025-11-06,APAC,free,shannon68@example.com,Ramirez and Sons,,,,19,2025-11-22T09:16:15.000Z,1,2,3,low
+469,2025-09-12,NA,pro,tammy51@example.com,Archer-Porter,180.0,3,2025-11-09,60,2025-12-01T15:16:15.000Z,5,8,13,low
+300,2025-09-18,LATAM,pro,johnsonmarie@example.org,Proctor-Williams,180.0,3,2025-11-17,160,2025-12-01T06:16:15.000Z,6,8,14,low
+499,2025-06-01,APAC,pro,jason34@example.com,Underwood Inc,420.0,7,2025-11-30,88,2025-11-29T06:16:15.000Z,5,8,13,low
+357,2025-09-11,APAC,basic,ybyrd@example.net,Wall-Brewer,60.0,3,2025-11-09,82,2025-11-12T05:16:15.000Z,2,4,6,low
+36,2025-03-04,APAC,free,wsmith@example.org,Thomas LLC,,,,14,2025-08-31T17:16:15.000Z,4,0,4,low
+158,2024-12-29,LATAM,enterprise,jennawood@example.com,"Wood, Smith and Torres",400.0,2,2025-03-01,214,2025-11-29T17:16:15.000Z,6,16,22,high
+338,2024-08-24,NA,basic,louis08@example.net,"Campbell, Edwards and Alvarez",200.0,10,2025-06-17,31,2025-10-26T09:16:15.000Z,1,4,5,high
+157,2025-09-28,LATAM,enterprise,erica92@example.org,Figueroa PLC,600.0,3,2025-11-30,420,2025-12-01T11:16:15.000Z,4,6,10,low
+238,2025-03-05,EU,free,osanchez@example.net,Hull and Sons,,,,16,2025-11-18T01:16:15.000Z,5,6,11,low
+289,2025-08-24,NA,enterprise,mcmahonelizabeth@example.com,Wilson-Cohen,600.0,3,2025-11-25,222,2025-11-30T01:16:15.000Z,6,10,16,low
+329,2025-04-06,EU,enterprise,allison52@example.org,Jones Inc,1200.0,6,2025-11-04,168,2025-12-02T01:16:15.000Z,8,4,12,low
+171,2025-01-01,EU,enterprise,joseph68@example.com,Vega Inc,1000.0,5,2025-05-02,402,2025-12-02T10:16:15.000Z,4,6,10,high
+405,2025-06-10,LATAM,pro,sweeneyshannon@example.org,Brown-Adams,300.0,5,2025-11-05,178,2025-12-01T10:16:15.000Z,2,12,14,low
+285,2025-09-11,APAC,enterprise,curtisquinn@example.com,Edwards-George,600.0,3,2025-11-13,227,2025-12-02T05:16:15.000Z,2,6,8,low
+114,2025-05-12,LATAM,pro,daniel40@example.com,Zhang-Navarro,180.0,3,2025-07-11,146,2025-11-21T01:16:15.000Z,6,6,12,high
+155,2025-07-14,EU,basic,linda09@example.com,Brown Group,100.0,5,2025-11-09,79,2025-11-24T15:16:15.000Z,4,6,10,low
+299,2024-08-13,APAC,basic,geraldmorse@example.net,Moore-Avery,60.0,3,2024-10-10,69,2025-12-01T10:16:15.000Z,6,8,14,high
+47,2024-08-03,EU,pro,abaker@example.org,Lloyd-Murphy,420.0,7,2025-03-02,127,2025-11-24T20:16:15.000Z,3,6,9,high
+220,2025-05-28,NA,pro,churchandrew@example.org,Hunt Ltd,420.0,7,2025-11-25,144,2025-12-02T14:16:15.000Z,1,6,7,low
+430,2024-09-09,EU,pro,apotter@example.net,Aguirre-Roberts,480.0,8,2025-05-07,103,2025-11-29T11:16:15.000Z,5,6,11,high
+447,2025-06-19,EU,basic,donna67@example.net,"Miller, Spencer and Wyatt",100.0,5,2025-11-17,64,2025-11-22T09:16:15.000Z,4,10,14,low
+326,2024-10-10,NA,basic,angela46@example.org,Ford LLC,280.0,14,2025-11-01,57,2025-12-01T23:16:15.000Z,2,4,6,low
+360,2024-08-25,LATAM,free,gamblematthew@example.com,Lee and Sons,,,,18,2025-11-16T00:16:15.000Z,5,12,17,low
+52,2025-09-28,APAC,free,martinezelizabeth@example.net,Palmer and Sons,,,,26,2025-11-27T08:16:15.000Z,8,12,20,low
+427,2025-09-30,LATAM,free,orrveronica@example.org,Harper PLC,,,,25,2025-11-17T14:16:15.000Z,5,4,9,low
+99,2025-02-22,NA,free,michael82@example.net,Williams-Clements,0.0,1,2025-02-20,24,2025-11-30T01:16:15.000Z,9,4,13,high
+86,2025-01-29,LATAM,pro,juliegonzalez@example.net,Hahn and Sons,360.0,6,2025-06-30,75,2025-11-23T21:16:15.000Z,3,10,13,high
+78,2024-08-01,EU,free,jerryross@example.net,Lane-Hays,,,,23,2025-11-17T04:16:15.000Z,3,0,3,low
+118,2025-02-20,APAC,enterprise,smithjoel@example.net,Bernard Group,1200.0,6,2025-07-20,389,2025-12-01T08:16:15.000Z,6,8,14,high
+134,2025-01-07,LATAM,enterprise,dicksonstephanie@example.net,Holmes and Sons,1600.0,8,2025-09-03,244,2025-12-02T01:16:15.000Z,8,14,22,high
+470,2025-04-26,EU,enterprise,besttammy@example.net,Nelson Ltd,1600.0,8,2025-11-19,199,2025-12-01T01:16:15.000Z,1,4,5,low
+488,2025-02-05,EU,free,grayryan@example.org,Stout-Salinas,,,,22,2025-10-11T11:16:15.000Z,1,0,1,low
+64,2025-03-23,EU,basic,herbert20@example.com,Estrada-Watkins,100.0,5,2025-07-22,63,2025-11-26T11:16:15.000Z,7,6,13,high
+222,2024-10-18,LATAM,free,bradknight@example.net,"Johns, Vazquez and Spencer",,,,28,2025-11-07T09:16:15.000Z,8,8,16,low
+6,2025-05-13,LATAM,basic,hwall@example.org,Mayo-Morrow,80.0,4,2025-08-10,86,2025-11-23T15:16:15.000Z,7,20,27,high
+500,2025-08-19,NA,pro,tara04@example.org,"Castillo, Velazquez and Williams",240.0,4,2025-11-15,86,2025-11-19T15:16:15.000Z,3,6,9,low
+174,2025-09-10,LATAM,free,clarkashley@example.com,Myers and Sons,10.0,1,2025-09-08,27,2025-11-12T12:16:15.000Z,7,8,15,low
+484,2025-07-19,NA,pro,frederickallen@example.com,"Roberts, Marshall and Graves",180.0,3,2025-10-17,177,2025-11-28T14:16:15.000Z,8,12,20,low
+144,2025-11-27,NA,enterprise,piercemichael@example.com,Huffman PLC,200.0,1,2025-11-30,404,2025-12-02T12:16:15.000Z,1,0,1,low
+345,2025-08-12,NA,basic,david07@example.com,Joseph-Daniels,80.0,4,2025-11-09,59,2025-11-03T01:16:15.000Z,6,2,8,low
+32,2025-10-15,NA,basic,rick91@example.com,Church Group,40.0,2,2025-11-16,48,2025-11-29T03:16:15.000Z,5,14,19,low
+421,2025-01-19,LATAM,enterprise,xdiaz@example.org,Burns-Koch,1800.0,9,2025-10-18,310,2025-12-01T06:16:15.000Z,3,6,9,low
+294,2024-10-07,EU,basic,victoriachavez@example.net,"Reed, Martin and Lambert",280.0,14,2025-11-01,60,2025-11-19T14:16:15.000Z,1,4,5,low
+485,2024-12-21,EU,enterprise,sarawilliams@example.net,Thornton-Harris,1400.0,7,2025-08-18,309,2025-12-02T12:16:15.000Z,3,2,5,high
+24,2025-04-12,NA,pro,eddie51@example.net,Duncan Ltd,420.0,7,2025-11-09,124,2025-11-29T02:16:15.000Z,7,8,15,low
+309,2025-05-22,APAC,basic,hendricksdebbie@example.com,"Wright, Parsons and Gonzales",120.0,6,2025-10-16,41,2025-12-01T11:16:15.000Z,10,0,10,low
+481,2024-11-15,APAC,free,rgardner@example.org,Montoya Inc,,,,20,2025-11-30T03:16:15.000Z,4,6,10,low
+147,2024-08-22,EU,enterprise,michellesmith@example.com,Sanchez PLC,3000.0,15,2025-10-18,289,2025-12-01T20:16:15.000Z,2,0,2,low
+178,2025-06-29,EU,basic,marthacraig@example.net,"Larson, Maynard and Gardner",100.0,5,2025-10-24,44,2025-11-06T12:16:15.000Z,1,6,7,low
+291,2025-10-16,APAC,free,drobertson@example.com,Johnson-Park,,,,23,2025-11-22T11:16:15.000Z,3,4,7,low
+129,2025-01-02,LATAM,pro,elizabethjohnson@example.net,Crawford-Williams,480.0,8,2025-10-01,74,2025-12-01T19:16:15.000Z,2,0,2,low
+413,2025-04-05,NA,basic,shieldsjavier@example.com,Ortega and Sons,160.0,8,2025-10-29,85,2025-11-30T15:16:15.000Z,2,2,4,low
+355,2024-10-17,LATAM,free,herrerajessica@example.org,Thompson-Simmons,,,,16,2025-10-19T16:16:15.000Z,7,4,11,low
+420,2025-10-06,APAC,free,william57@example.com,Frazier Inc,,,,17,2025-11-12T23:16:15.000Z,10,8,18,low
+219,2024-07-30,LATAM,pro,patrickpeterson@example.net,May LLC,600.0,10,2025-04-23,90,2025-11-29T10:16:15.000Z,3,14,17,high
+379,2024-12-20,APAC,free,robleswanda@example.com,Rodriguez-Lowe,0.0,1,2024-12-23,13,2025-11-26T21:16:15.000Z,3,4,7,high
+65,2024-08-30,EU,enterprise,brianmatthews@example.com,"Lopez, Dodson and Snyder",600.0,3,2024-10-27,227,2025-12-01T12:16:15.000Z,0,2,2,high
+302,2024-08-22,APAC,basic,andre39@example.org,"Hernandez, Simmons and Hall",220.0,11,2025-08-14,76,2025-11-30T09:16:15.000Z,5,6,11,high
+464,2024-11-14,EU,free,william16@example.net,Lara-Caldwell,,,,21,2025-11-09T01:16:15.000Z,4,2,6,low
+296,2025-03-31,LATAM,basic,xpeck@example.net,"Walker, Powell and Atkins",180.0,9,2025-11-29,62,2025-12-01T11:16:15.000Z,1,2,3,low
+152,2025-02-24,LATAM,free,paularussell@example.net,Jacobson Inc,10.0,1,2025-02-25,28,2025-11-24T21:16:15.000Z,7,10,17,high
+257,2024-10-05,NA,basic,sierra33@example.com,Shepherd-Robinson,180.0,9,2025-07-04,64,2025-11-01T08:16:15.000Z,2,6,8,high
+90,2024-12-10,NA,basic,alan02@example.org,Hebert-Galvan,180.0,9,2025-11-04,68,2025-11-28T06:16:15.000Z,1,12,13,low
+72,2025-06-17,LATAM,free,elizabeth28@example.net,Morris LLC,20.0,1,2025-07-14,30,2025-11-30T03:16:15.000Z,0,0,0,high
+9,2025-02-21,EU,basic,nirwin@example.org,"Fleming, Lang and Forbes",160.0,8,2025-11-17,52,2025-11-13T10:16:15.000Z,1,4,5,low
+316,2025-03-14,LATAM,pro,kelly09@example.com,Cardenas Ltd,540.0,9,2025-11-10,127,2025-11-27T20:16:15.000Z,8,10,18,low
+461,2024-12-10,NA,enterprise,justin12@example.com,Cervantes-Hubbard,1200.0,6,2025-06-05,239,2025-11-30T12:16:15.000Z,5,2,7,high
+61,2024-09-25,LATAM,enterprise,roberthernandez@example.com,"Morgan, Gomez and Roberts",2000.0,10,2025-08-24,174,2025-11-28T01:16:15.000Z,6,6,12,high
+165,2025-11-03,LATAM,pro,grantjames@example.com,"Clements, Flores and Richards",60.0,1,2025-11-03,167,2025-11-26T02:16:15.000Z,7,6,13,low
+228,2025-01-24,NA,free,david41@example.com,Freeman Inc,,,,13,2025-10-05T01:16:15.000Z,6,4,10,low
+253,2024-10-18,NA,enterprise,patricia72@example.org,"Villa, Neal and Ross",1200.0,6,2025-03-18,394,2025-11-30T10:16:15.000Z,1,0,1,high
+370,2024-12-30,NA,enterprise,steelevictoria@example.com,"Bailey, Thomas and Osborn",600.0,3,2025-04-02,424,2025-12-01T06:16:15.000Z,6,6,12,high
+188,2025-11-20,LATAM,enterprise,mcollins@example.net,"Thomas, Ramirez and Hill",200.0,1,2025-11-17,350,2025-11-29T18:16:15.000Z,1,4,5,low
+496,2025-05-25,LATAM,enterprise,sergionoble@example.com,Bailey-Young,1400.0,7,2025-11-24,388,2025-12-01T11:16:15.000Z,10,6,16,low
+465,2025-01-10,NA,pro,vlopez@example.org,Rose and Sons,540.0,9,2025-11-04,66,2025-11-28T16:16:15.000Z,2,4,6,low
+462,2025-10-09,LATAM,pro,sreid@example.org,"Mitchell, Flowers and Rodriguez",120.0,2,2025-11-07,139,2025-11-26T19:16:15.000Z,8,16,24,low
+67,2025-03-22,NA,enterprise,mary43@example.com,"Fleming, Brown and Fisher",800.0,4,2025-07-20,408,2025-12-01T12:16:15.000Z,1,4,5,high
+381,2025-09-22,EU,free,qbaker@example.com,Gardner-Morgan,,,,13,2025-11-08T04:16:15.000Z,6,14,20,low
+480,2024-08-08,NA,enterprise,sandra07@example.net,Peterson Inc,1200.0,6,2025-01-07,176,2025-11-30T01:16:15.000Z,1,0,1,high
+138,2025-04-06,APAC,basic,ssmith@example.org,Taylor-Strickland,60.0,3,2025-06-07,90,2025-11-08T11:16:15.000Z,0,2,2,high
+403,2024-10-01,APAC,free,wwillis@example.org,"Perez, Baker and Turner",,,,10,2025-09-19T17:16:15.000Z,5,8,13,low
+437,2025-01-19,LATAM,basic,robert58@example.org,"Gonzalez, Torres and Walker",100.0,5,2025-05-22,44,2025-11-17T03:16:15.000Z,9,8,17,high
+137,2024-06-23,APAC,free,amandagarrett@example.com,Best Ltd,,,,16,2025-11-01T15:16:15.000Z,10,8,18,low
+448,2024-09-10,NA,enterprise,alexanderthomas@example.org,Johnston LLC,1800.0,9,2025-07-04,229,2025-11-29T10:16:15.000Z,8,2,10,high
+311,2024-09-07,NA,pro,hadams@example.org,"Davidson, Jones and Howard",900.0,15,2025-11-03,77,2025-11-22T08:16:15.000Z,3,8,11,low
+346,2025-11-17,APAC,basic,deborahmeyers@example.org,"Mills, Lewis and Maldonado",20.0,1,2025-11-19,73,2025-11-17T01:16:15.000Z,6,10,16,low
+295,2025-06-06,NA,enterprise,abarron@example.com,Banks Ltd,1200.0,6,2025-11-02,194,2025-11-25T00:16:15.000Z,0,6,6,low
+163,2025-04-21,LATAM,basic,harrispatricia@example.org,"White, Watson and Austin",100.0,5,2025-09-16,77,2025-11-25T19:16:15.000Z,5,4,9,low
+186,2025-10-21,APAC,enterprise,walkerbrian@example.net,Sutton LLC,400.0,2,2025-11-19,247,2025-12-01T10:16:15.000Z,5,4,9,low
+133,2025-02-12,EU,enterprise,nicholsstephanie@example.com,Walker LLC,1800.0,9,2025-11-12,336,2025-12-01T06:16:15.000Z,1,2,3,low
+491,2025-03-18,NA,basic,thomasking@example.net,"Morris, Thomas and Young",140.0,7,2025-09-12,88,2025-11-30T05:16:15.000Z,4,6,10,low
+48,2024-06-10,LATAM,basic,todd79@example.com,Wood and Sons,180.0,9,2025-04-03,43,2025-12-02T16:16:15.000Z,11,6,17,high
+359,2025-01-04,LATAM,pro,thomasandrea@example.com,Martinez-White,180.0,3,2025-03-05,141,2025-11-30T15:16:15.000Z,3,0,3,high
+122,2024-12-14,APAC,enterprise,thomas97@example.com,"Sandoval, Bolton and Price",1200.0,6,2025-05-10,198,2025-11-30T16:16:15.000Z,5,8,13,high
+251,2025-08-17,EU,pro,matthew91@example.org,Boone Group,240.0,4,2025-11-14,98,2025-11-17T14:16:15.000Z,8,10,18,low
+324,2025-11-07,APAC,basic,steelemark@example.net,White Ltd,20.0,1,2025-11-10,48,2025-11-18T13:16:15.000Z,1,8,9,low
+149,2024-09-02,EU,enterprise,milleradam@example.net,"Bennett, Hernandez and Powell",1200.0,6,2025-03-03,379,2025-11-30T13:16:15.000Z,3,6,9,high
+367,2025-09-25,NA,free,jacquelinehuerta@example.org,"Smith, Hubbard and Carney",,,,21,2025-11-06T15:16:15.000Z,4,8,12,low
+349,2024-09-27,NA,free,qking@example.org,Grant and Sons,,,,19,2025-10-22T09:16:15.000Z,6,4,10,low
+371,2024-12-05,LATAM,free,mbanks@example.net,Taylor Ltd,0.0,1,2024-12-06,13,2025-10-01T04:16:15.000Z,2,6,8,high
+168,2025-11-05,NA,enterprise,alexandriaallen@example.org,Vasquez PLC,200.0,1,2025-11-07,303,2025-12-01T00:16:15.000Z,1,2,3,low
+418,2024-09-08,NA,enterprise,jennifer62@example.org,"Moon, Smith and Newman",2400.0,12,2025-08-06,437,2025-12-02T02:16:15.000Z,5,6,11,high
+270,2025-09-22,APAC,enterprise,tiffanyrodriguez@example.net,Hill-Warren,600.0,3,2025-11-20,190,2025-12-01T04:16:15.000Z,0,2,2,low
+380,2025-05-31,EU,enterprise,crystallopez@example.org,Gray LLC,1400.0,7,2025-11-28,332,2025-12-01T15:16:15.000Z,4,2,6,low
+412,2024-12-10,APAC,basic,hunter49@example.com,Davis Group,160.0,8,2025-07-11,73,2025-11-08T05:16:15.000Z,2,4,6,high
+347,2025-01-05,NA,basic,gyoung@example.org,"Dunn, Edwards and Montoya",120.0,6,2025-06-05,30,2025-11-24T06:16:15.000Z,6,6,12,high
+483,2025-03-31,NA,pro,lorrainehall@example.org,Newman LLC,540.0,9,2025-11-25,110,2025-11-26T03:16:15.000Z,4,4,8,low
+482,2024-12-02,NA,pro,amyperez@example.org,Martinez-Wise,480.0,8,2025-07-28,140,2025-11-29T18:16:15.000Z,8,6,14,high
+308,2025-04-11,APAC,basic,qmedina@example.org,"Stanley, Noble and James",160.0,8,2025-11-04,60,2025-11-01T20:16:15.000Z,4,14,18,low
+408,2024-06-14,NA,enterprise,vincentamber@example.org,Reynolds Ltd,2800.0,14,2025-08-10,185,2025-11-27T21:16:15.000Z,6,10,16,high
+387,2025-09-10,APAC,enterprise,schultzrobert@example.net,Cummings Inc,600.0,3,2025-11-09,419,2025-12-02T05:16:15.000Z,5,6,11,low
+73,2024-10-29,APAC,enterprise,thomaschandler@example.com,"Hamilton, Thompson and Robbins",1800.0,9,2025-06-27,336,2025-12-02T08:16:15.000Z,4,8,12,high
+317,2024-12-21,NA,enterprise,davidleach@example.org,Santana LLC,1200.0,6,2025-05-23,225,2025-12-02T01:16:15.000Z,1,0,1,high
+57,2024-07-23,EU,basic,brendapetersen@example.net,Ochoa Group,120.0,6,2025-01-18,90,2025-11-18T19:16:15.000Z,5,6,11,high
+89,2024-07-02,APAC,basic,alicia34@example.com,Armstrong-Torres,220.0,11,2025-05-27,72,2025-11-22T03:16:15.000Z,6,6,12,high
+392,2024-07-22,APAC,free,christine91@example.com,"Copeland, Morris and Brady",,,,13,2025-10-10T08:16:15.000Z,6,6,12,low
+254,2025-09-03,APAC,pro,mcphersonkelly@example.com,"Silva, Steele and Howard",240.0,4,2025-12-02,122,2025-12-02T02:16:15.000Z,8,4,12,low
+490,2025-01-19,LATAM,enterprise,jenniferrose@example.net,Nguyen-Mccoy,600.0,3,2025-04-18,317,2025-11-30T08:16:15.000Z,5,4,9,high
+354,2025-11-01,NA,enterprise,hyoung@example.com,"Cox, Bernard and Wright",400.0,2,2025-11-28,363,2025-12-01T07:16:15.000Z,5,14,19,low
+252,2024-10-07,LATAM,pro,dreynolds@example.org,Taylor LLC,240.0,4,2025-01-07,73,2025-11-25T15:16:15.000Z,5,8,13,high
+310,2025-08-25,NA,pro,lcalhoun@example.com,Thomas-Tanner,180.0,3,2025-11-23,126,2025-11-27T13:16:15.000Z,4,8,12,low
+25,2024-10-18,APAC,free,wmarquez@example.net,Ballard-Buchanan,,,,24,2025-10-18T09:16:15.000Z,2,4,6,low
+136,2025-06-12,NA,pro,travis10@example.com,Williams-Webb,300.0,5,2025-10-13,148,2025-12-02T08:16:15.000Z,1,2,3,low
+97,2025-03-07,LATAM,pro,bobby00@example.com,Ingram-Mills,300.0,5,2025-08-01,137,2025-11-28T04:16:15.000Z,2,4,6,high
+337,2025-02-23,EU,free,hansenjasmine@example.net,Owens LLC,10.0,1,2025-02-22,16,2025-12-02T07:16:15.000Z,1,6,7,high
