@@ -28,7 +28,7 @@ def load_data():
 
 customer_360, mrr, churn = load_data()
 
-# ---- Header ----
+# header
 st.markdown("## 📊 Customer 360 Analytics Dashboard")
 st.markdown(
     "End-to-end Databricks → Gold layer exported to power key revenue and churn insights."
@@ -46,12 +46,10 @@ kpi3.metric("Total Customers", total_customers)
 
 st.markdown("---")
 
-# ---- Tabs for layout ----
+# layout tabs
 tab_overview, tab_customers = st.tabs(["📈 Overview", "🧍 Customer 360"])
 
-# =======================
-#       OVERVIEW TAB
-# =======================
+# overview 
 with tab_overview:
     col_left, col_right = st.columns(2)
 
@@ -107,9 +105,7 @@ with tab_overview:
         fig_seg.update_layout(margin=dict(l=10, r=10, t=40, b=10))
         st.plotly_chart(fig_seg, use_container_width=True)
 
-# =======================
-#     CUSTOMERS TAB
-# =======================
+#
 with tab_customers:
     st.subheader("🧍 Customer 360 View")
 
@@ -147,4 +143,3 @@ with tab_customers:
 
     st.markdown(f"**Showing {len(df)} customers**")
     st.dataframe(df, use_container_width=True, height=450)
-
